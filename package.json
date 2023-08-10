@@ -1,8 +1,8 @@
 {
   "name": "portafolio-damaris",
-  "version": "0.1.4",
-  "author": "Jaime Bosch",
-  "homepage": "http://damarisdev.github.io",
+  "version": "0.1.5",
+  "author": "Damaris Barbosa",
+  "homepage": "https://www.damarisprogramadoraycontadora.com/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
