@@ -1,7 +1,8 @@
 {
   "name": "portafolio-damaris",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "author": "Jaime Bosch",
+  "homepage": "http://damarisdev.github.io/hojedevida",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -18,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
