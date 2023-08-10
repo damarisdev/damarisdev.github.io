@@ -2,7 +2,7 @@
   "name": "portafolio-damaris",
   "version": "0.1.4",
   "author": "Jaime Bosch",
-  "homepage": "http://damarisdev.github.io/hojedevida",
+  "homepage": "http://damarisdev.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
